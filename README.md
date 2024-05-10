@@ -24,6 +24,8 @@ Additionaly, I have analyzed several different take-profit and stop-loss levels 
 - Python 3.x
 - Pandas
 - NumPy
+- Sklearn
+- XGBoost
 
 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
