@@ -13,6 +13,12 @@ Additionaly, I have analyzed several different take-profit and stop-loss levels 
 - Sells Bitcoin based on profit targets, stop-loss levels, or after a specified holding period.
 - Calculates returns and performance metrics for different threshold, profit, and stop-loss levels.
 
+## Data
+
+- The initial Raw data is Max_Data.csv. This will get you started
+- Throughout the code there are various checkpoints where i have saved data, in case there are computational issues.
+- You can download these checkpoint datasets from this repository
+
 ## Requirements
 
 - Python 3.x
