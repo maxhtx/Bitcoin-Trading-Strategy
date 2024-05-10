@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a trading strategy based on a machine learning model's predictions for Bitcoin prices. The strategy buys Bitcoin when the model predicts a price increase above a certain threshold and sells it when certain conditions are met (e.g., reaching a profit target or stop-loss level, or after a certain time period).
+This project implements a trading strategy based on a machine learning model's predictions for Bitcoin prices. The strategy buys Bitcoin when the model predicts a return above a certain threshold and sells it when certain conditions are met (e.g., reaching a profit target or stop-loss level, or after a certain time period).
 
 Additionaly, I have analyzed several different take-profit and stop-loss levels that could be useful when developing a 'target' variable
 
