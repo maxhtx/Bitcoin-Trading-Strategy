@@ -1,0 +1,24 @@
+# Bitcoin Trading Strategy with Machine Learning Model
+
+## Overview
+
+This project implements a trading strategy based on a machine learning model's predictions for Bitcoin prices. The strategy buys Bitcoin when the model predicts a price increase above a certain threshold and sells it when certain conditions are met (e.g., reaching a profit target or stop-loss level, or after a certain time period).
+
+## Features
+
+- Uses machine learning model predictions to make trading decisions.
+- Buys Bitcoin when the predicted price increase exceeds a threshold.
+- Sells Bitcoin based on profit targets, stop-loss levels, or after a specified holding period.
+- Calculates returns and performance metrics for different threshold, profit, and stop-loss levels.
+
+## Requirements
+
+- Python 3.x
+- Pandas
+- NumPy
+
+Contributing
+Contributions are welcome! Feel free to submit issues or pull requests.
+
+Author
+Max Helman
